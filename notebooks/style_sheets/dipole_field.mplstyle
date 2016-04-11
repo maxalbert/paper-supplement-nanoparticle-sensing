@@ -1,0 +1,15 @@
+# Matplotlib style sheet for Fig.2 (dipole field visualisation).
+#
+# See here for details on style sheets in matplotlib:
+#     http://matplotlib.org/users/style_sheets.html
+#
+
+axes.titlesize : 22
+axes.labelsize : 22
+lines.linewidth : 2
+lines.markersize : 20
+xtick.labelsize : 18
+ytick.labelsize : 18
+legend.fontsize : 16
+xtick.direction : in
+ytick.direction : in
