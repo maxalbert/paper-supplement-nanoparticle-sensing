@@ -3,5 +3,5 @@ dependencies:
   - python
   - ipython
   - jupyter
-  - matplotlib
+  - matplotlib>=1.5
   - numpy
