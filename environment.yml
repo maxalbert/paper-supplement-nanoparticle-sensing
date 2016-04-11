@@ -1,9 +1,13 @@
 name: eigenmodes-nanodisc-with-particle
 dependencies:
   - python
+  - future
   - ipython
   - jupyter
   - matplotlib>=1.5
+  - numexpr
   - numpy
   - pandas
   - statsmodels
+  - pip:
+     - brewer2mpl
