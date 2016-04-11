@@ -1,0 +1,7 @@
+name: eigenmodes-nanodisc-with-particle
+dependencies:
+  - python
+  - ipython
+  - jupyter
+  - matplotlib
+  - numpy
