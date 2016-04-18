@@ -12,4 +12,5 @@ On Github you can view them directly in the browser:
 - [Fig. 9(b): Frequency change vs. particle size](./notebooks/fig_9b_dependence_of_frequency_change_on_particle_size.ipynb)
 - [Fig. 9(c): Frequency change for the fundamental mode for various external field strengths](./notebooks/fig_9c_comparison_of_frequency_change_for_various_external_field_strengths.ipynb)
 
-The raw data is available in the file [data/eigenmode_info_data_frame.pickle](./data/), which is a pickled [pandas](http://pandas.pydata.org/) data frame containing the simulation parameters and computed resonant frequencies for all performed simulations. All notebooks use this data to generate the figures.
+The raw data is available in the file [data/eigenmode_info_data_frame.csv](./data/eigenmode_info_data_frame.csv), which is a CSV (= comma-separated values) file containing the simulation parameters and computed resonant frequencies for all performed simulations. All notebooks use this data to generate the figures.
+The data format is explained in the notebook [Explanation of the data format](./notebooks/explanation_of_the_data_format.ipynb).
