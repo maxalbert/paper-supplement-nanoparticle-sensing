@@ -7,7 +7,7 @@ dependencies:
   - matplotlib>=1.5
   - numexpr
   - numpy
-  - pandas
+  - pandas>=0.18
   - statsmodels
   - pip:
      - brewer2mpl
