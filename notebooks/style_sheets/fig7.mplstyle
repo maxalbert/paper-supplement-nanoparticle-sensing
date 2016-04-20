@@ -1,0 +1,15 @@
+# Custom matplotlib style sheet for Fig.7
+#
+# See here for details on style sheets in matplotlib:
+#     http://matplotlib.org/users/style_sheets.html
+#
+
+axes.titlesize : 20
+axes.labelsize : 18
+lines.linewidth : 2
+lines.markersize : 20
+xtick.labelsize : 16
+ytick.labelsize : 16
+legend.fontsize : 16
+xtick.direction : out
+ytick.direction : out

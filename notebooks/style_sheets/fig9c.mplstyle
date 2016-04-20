@@ -1,0 +1,14 @@
+# Custom matplotlib style sheet.
+#
+# See here for details on style sheets in matplotlib:
+#     http://matplotlib.org/users/style_sheets.html
+#
+
+axes.titlesize : 20
+axes.labelsize : 18
+xtick.labelsize : 16
+ytick.labelsize : 16
+legend.fontsize : 16
+lines.linestyle : -
+lines.marker : o
+lines.markersize : 10
