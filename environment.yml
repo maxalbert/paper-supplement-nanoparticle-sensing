@@ -1,4 +1,4 @@
-name: eigenmodes-nanodisc-with-particle
+name: particle-sensing
 dependencies:
   - python
   - future
