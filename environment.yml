@@ -9,5 +9,3 @@ dependencies:
   - numpy
   - pandas>=0.18
   - statsmodels
-  - pip:
-     - brewer2mpl

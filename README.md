@@ -57,11 +57,10 @@ In order to execute the notebooks, the following dependencies are required.
 - `numexpr`
 - `pandas` (>= 0.18)
 - `statsmodels`
-- `brewer2mpl`
 
 You can install them using `pip` as follows:
 ```
-pip install ipython jupyter matplotlib numexpr pandas statsmodels brewer2mpl
+pip install ipython jupyter matplotlib numexpr pandas statsmodels
 ```
 However, be aware that this may potentially take a *long* time (and
 you may need to install additional dependencies via your
