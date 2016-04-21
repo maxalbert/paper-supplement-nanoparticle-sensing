@@ -1,5 +1,8 @@
 # Frequency-based nanoparticle sensing over large field ranges with ferromagnetic resonance in a nanodisc: supplementary material
 
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/poliastro/poliastro/raw/master/COPYING)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/maxalbert/paper-supplement-nanoparticle-sensing)
+
 This repository accompanies the paper _"Frequency-based nanoparticle sensing over large field ranges with ferromagnetic resonance in a nanodisc"_.
 It provides the data underlying the figures in the paper as well as Jupyter notebooks to reproduce those figures.
 The latest version of this repository can be found at https://github.com/maxalbert/paper-supplement-nanoparticle-sensing
@@ -10,7 +13,7 @@ The latest version of this repository can be found at https://github.com/maxalbe
 Maximilian Albert, Marijan Beg, Dmitri Chernyshenko, Marc-Antonio Bisotti, Rebecca L. Carey, Hans Fangohr and Peter Metaxas.
 
 
-## Overview
+## Contents
 
 The directory `notebooks/` contains Jupyter notebooks for the relevant figures in the paper.
 On Github you can view them directly in the browser:
@@ -26,7 +29,20 @@ On Github you can view them directly in the browser:
 The raw data is available in the file [data/eigenmode_info_data_frame.csv](./data/eigenmode_info_data_frame.csv), which is a CSV (= comma-separated values) file containing the simulation parameters and computed resonant frequencies for all performed simulations. All notebooks use this data to generate the figures.
 The data format is explained in the notebook [Explanation of the data format](./notebooks/explanation_of_the_data_format.ipynb).
 
-## Running the notebooks
+
+## Executing the notebooks
+
+### Using a cloud Jupyter server via Binder (no installation required)
+
+The easiest way to execute the notebooks without installing anything
+is to launch a cloud Jupyter server using [Binder](http://mybinder.org/).
+You can access it here:
+
+http://mybinder.org/repo/maxalbert/paper-supplement-nanoparticle-sensing
+
+### Running the notebooks locally on your machine
+
+In order to run the notebooks on your own computer, follow the steps below.
 
 1. Clone this repository and change into the newly created directory:
    ```
@@ -34,7 +50,7 @@ The data format is explained in the notebook [Explanation of the data format](./
    cd paper-supplement-nanoparticle-sensing
    ```
 
-2. Make sure that you have all required dependencies installed (see below).
+2. Make sure that you have all required dependencies installed (see below; we recommend the installation using conda if possible).
 
 3. Start a notebook server:
    ```
