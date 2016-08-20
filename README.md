@@ -5,7 +5,7 @@
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/poliastro/poliastro/raw/master/COPYING)
 
 This repository accompanies the paper _"Frequency-based nanoparticle sensing over large field ranges using the ferromagnetic resonances of a magnetic nanodisc"_.
-It provides the data underlying the figures in the paper as well as Jupyter notebooks to reproduce those figures.
+It provides the data underlying the figures in the paper as well as [Jupyter](https://jupyter.org/) notebooks to reproduce those figures.
 The latest version of this repository can be found at https://github.com/maxalbert/paper-supplement-nanoparticle-sensing
 
 ----------
@@ -36,10 +36,19 @@ The data format is explained in the notebook [Explanation of the data format](./
 ### Using a cloud Jupyter server via Binder (no installation required)
 
 The easiest way to execute the notebooks without installing anything
-is to launch a cloud Jupyter server using [Binder](http://mybinder.org/).
-You can access it here:
+is to launch a cloud [Jupyter](https://jupyter.org/) server using
+[Binder](http://mybinder.org/). You can access it here:
 
 http://mybinder.org/repo/maxalbert/paper-supplement-nanoparticle-sensing
+
+After clicking on the link you may need to wait for a minute or so while
+a fresh Jupyter server is being generated. Once this process is complete
+it will show a dashboard with the contents of this repository. Navigate
+to the `notebooks` folder and click on any of the `.ipynb` files to open
+the corresponding Jupyter notebook. You can execute all cells through the
+the menu item `Cell -> Run All` to reproduce the corresponding paper figure.
+For more information on Jupyter notebooks see their
+[documentation](https://jupyter.readthedocs.io/en/latest/index.html).
 
 ### Running the notebooks locally on your machine
 
