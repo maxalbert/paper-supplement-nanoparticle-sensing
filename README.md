@@ -46,8 +46,8 @@ After clicking on the link you may need to wait for a minute or so while
 a fresh Jupyter server is being generated. Once this process is complete
 it will show a dashboard with the contents of this repository. Navigate
 to the `notebooks` folder and click on any of the `.ipynb` files to open
-the corresponding Jupyter notebook. You can execute all cells through the
-the menu item `Cell -> Run All` to reproduce the corresponding paper figure.
+the corresponding Jupyter notebook. To reproduce the associated paper
+figure execute all cells through the the menu item `Cell -> Run All`.
 For more information on Jupyter notebooks see their
 [documentation](https://jupyter.readthedocs.io/en/latest/index.html).
 
