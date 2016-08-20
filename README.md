@@ -6,6 +6,7 @@
 
 This repository accompanies the paper _"Frequency-based nanoparticle sensing over large field ranges using the ferromagnetic resonances of a magnetic nanodisc"_.
 It provides the data underlying the figures in the paper as well as [Jupyter](https://jupyter.org/) notebooks to reproduce those figures.
+
 The latest version of this repository can be found at https://github.com/maxalbert/paper-supplement-nanoparticle-sensing
 
 ----------
