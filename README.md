@@ -5,8 +5,8 @@
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/maxalbert/paper-supplement-nanoparticle-sensing)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/poliastro/poliastro/raw/master/COPYING)
 
-This repository accompanies the paper _"Frequency-based nanoparticle sensing over large field ranges using the ferromagnetic resonances of a magnetic nanodisc"_.
-It provides the data underlying the figures in the paper as well as [Jupyter](https://jupyter.org/) notebooks to reproduce those figures.
+This repository accompanies the paper [_"Frequency-based nanoparticle sensing over large field ranges using the ferromagnetic resonances of a magnetic nanodisc"_](http://iopscience.iop.org/article/10.1088/0957-4484/27/45/455502/meta), published in _Nanotechnology_, Volume 27, Number 45.
+It provides the data underlying the figures in the paper, as well as [Jupyter](https://jupyter.org/) notebooks to reproduce those figures.
 
 The latest version of this repository can be found at https://github.com/maxalbert/paper-supplement-nanoparticle-sensing
 
